@@ -31,7 +31,7 @@ Driven Technical Content Writer and Strategist with 8+ years of experience trans
 ## 📁 Featured Writing Samples
 
 ### 🛠️ Technical Guides including B2B, SaaS, and Developer Tools
-- **[Cross-Site Scripting (XSS): Prevention and Permanent Fixes]**(https://docs.google.com/document/d/1AHSXo1KEScc-fiLvUC3ulfrTmIc7Ey2xcEFwFHKZwPU/edit?tab=t.0#heading=h.h7cd0zl93wzk) ** – *Comprehensive security guide detailing vulnerabilities and remediation.*
+- **[Cross-Site Scripting (XSS): Prevention and Permanent Fixes](https://docs.google.com/document/d/1AHSXo1KEScc-fiLvUC3ulfrTmIc7Ey2xcEFwFHKZwPU/edit?tab=t.0#heading=h.h7cd0zl93wzk)** – *Comprehensive security guide detailing vulnerabilities and remediation.*
   
 - **[Ransomware as a Service (RaaS): What to Know?](https://docs.google.com/document/d/1eVaA-xy9zI18cpnc3EkdXCnEyr0LP2WaMguWsymRaCQ/edit?tab=t.0#heading=h.kz8e8qebojcx)** – *Deep-dive threat analysis for cybersecurity audiences.*
   
