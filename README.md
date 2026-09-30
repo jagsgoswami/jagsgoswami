@@ -39,9 +39,9 @@ Driven Technical Content Writer and Strategist with 8+ years of experience trans
   
 - **[11 React Tools to Create the Best Version of Your Project](https://docs.google.com/document/d/1JU7BsZoRxLg2tDyUem6YJ4RMKeyMHJUZcl-O6JVb8XA/edit?tab=t.0)** – *Curated breakdown of top developer frameworks and tools.*
   
-- **[Top 16 Blockchain Development Tools for Beginners](#https://docs.google.com/document/d/1ogqASVHSEOlPlKfF5AF-bMzaFCYFhPuY-0AM9LK-dtM/edit?tab=t.0)** – *Overview of developer tools for web3 and smart contracts.*
+- **[Top 16 Blockchain Development Tools for Beginners](https://docs.google.com/document/d/1ogqASVHSEOlPlKfF5AF-bMzaFCYFhPuY-0AM9LK-dtM/edit?tab=t.0)** – *Overview of developer tools for web3 and smart contracts.*
 
-- **B2B & Fintech Guest Posts (GP)**
+**B2B & Fintech Guest Posts (GP)**
 
 **Articles covering digital wallets, cross-border payments, eKYC, and AML compliance:
 **
