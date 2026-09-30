@@ -65,13 +65,13 @@ Focused strategy guides for businesses on achieving compliance and fraud prevent
 - 🎯 [Effective Ways to Achieve Full Compliance for Fraud Prevention](https://docs.google.com/document/d/1xrqCyofvNZQQT2BJeLCrNCNfTd-SjCZzBzHubKYzlIc/edit)
 - ⚠️ [Obstacles in Ensuring KYC & AML Compliance for Fintech](https://docs.google.com/document/d/188gxYuiQq80hQkpRBylixeLO4SH8AzDSXRif-4liXlw/edit)
 
-### 📈 🛒 Ecommerce & Customer Support Portfolio
+## 🛒 Ecommerce & Customer Support Portfolio
 * [10 Gorgias Alternatives for Better Customer Support](https://desku.io/blogs/gorgias-alternatives-and-competitors/)
 * [10 Best Customer Support Ticketing Systems](https://desku.io/blogs/customer-support-ticketing-system/)
 * [10 Ultimate Customer Feedback Email Templates](https://desku.io/blogs/customer-feedback-email-templates/)
 * [Drawbacks of Zendesk and Its Complex Customer Experience](https://desku.io/blogs/drawbacks-of-zendesk/)
 
-### 💰 US Personal Finance Portfolio
+## 💰 US Personal Finance Portfolio
 * [10 Best Credit Cards for Gas and Groceries of 2025](https://www.pennycallingpenny.com/best-credit-card-for-gas-and-groceries/)
 * [Best Tips to Save Money at Gas Station](https://www.pennycallingpenny.com/how-to-save-money-on-gas/)
 * [Mid-term Financial Goals - How to plan it](https://docs.google.com/document/d/1nfLQXtavwZAs4gv56NepCf9tY6Tbp7IsSIWdFQLkvGw/edit)
