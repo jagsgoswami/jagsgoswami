@@ -31,7 +31,7 @@ Driven Technical Content Writer and Strategist with 8+ years of experience trans
 ## 📁 Featured Writing Samples
 
 ### 🛠️ Technical Guides including B2B, SaaS, and Developer Tools
-- **[Cross-Site Scripting (XSS): Prevention and Permanent Fixes](https://docs.google.com/document/d/1AHSXo1KEScc-fiLvUC3ulfrTmIc7Ey2xcEFwFHKZwPU/edit?tab=t.0#heading=h.h7cd0zl93wzk) ** – *Comprehensive security guide detailing vulnerabilities and remediation.*
+- **[Cross-Site Scripting (XSS): Prevention and Permanent Fixes]**(https://docs.google.com/document/d/1AHSXo1KEScc-fiLvUC3ulfrTmIc7Ey2xcEFwFHKZwPU/edit?tab=t.0#heading=h.h7cd0zl93wzk) ** – *Comprehensive security guide detailing vulnerabilities and remediation.*
   
 - **[Ransomware as a Service (RaaS): What to Know?](https://docs.google.com/document/d/1eVaA-xy9zI18cpnc3EkdXCnEyr0LP2WaMguWsymRaCQ/edit?tab=t.0#heading=h.kz8e8qebojcx)** – *Deep-dive threat analysis for cybersecurity audiences.*
   
@@ -84,7 +84,7 @@ In-depth articles covering nutrition, gut health science, and overall wellness:
 - 🍪 [Examining the Health Implications of Eating Digestive Biscuits](https://thegoodbug.com/blogs/news/are-digestive-biscuits-good-for-health-implications?)
 - 💆‍♀️ [Understanding How Gut Health Affects Acne](https://thegoodbug.com/blogs/news/does-gut-health-affect-acne-explained)
 - 💊 [Restoring Gut Health and Flora After Antibiotics](https://thegoodbug.com/blogs/news/rebuild-gut-health-after-antibiotics-strategies)
-- 🍳 [Egg Consumption and Its Impact on Gut Health](https://thegoodbug.com/blogs/news/are-eggs-good-for-gut-health-impact)
+- 🍳 [Egg Consumption and its Impact on Gut Health](https://thegoodbug.com/blogs/news/are-eggs-good-for-gut-health-impact)
 - ☀️ [These Summer Fitness Tips Activate Your Healthy Lifestyle Button](https://docs.google.com/document/d/1mlrX3mrj_vUYFzCrpYvlkP2TpFkyXd6QTkKPF0f3R00/edit)
 - 🏃‍♂️ [Set Your Eyes To 10 Quick Fitness Tips For A Healthy Lifestyle](https://docs.google.com/document/d/1khCfgjEdkURFonDIzS_oKivlYKoCCC4uEVgkf3mSTC4/edit)
 - 🧘‍♀️ [Healthy Life Activities: See Ideas On How To Keep Adults Fit And Fine](https://docs.google.com/document/d/1Hd8vFToz0bQ0j1kFxa58c9Hknjyn83Wnjt5pBEZ3nlA/edit)
@@ -108,6 +108,15 @@ Engaging reads exploring global traditions, local festivals, and culinary herita
 
 - 🎆 [11 Best Malaysian Festivals that Define its Culture](https://www.tripnstay.com/best-malaysian-festivals/)
 - 🍝 [Everything To Know About Italian Food Culture!](https://docs.google.com/document/d/1G4lAi5n7Z-RGqZzJPobLhXH2ok9g4fBCwwjP0YmtfZc/edit)
+
+## ✈️ Travel, Food & Culture
+
+- ⛰️ [9 Best Places for Trekking in Thailand](https://www.tripnstay.com/best-places-for-trekking-in-thailand/)
+- 🏖️ [15 Best Resorts in Phuket For A Luxurious and Budget-Friendly Getaway](https://www.tripnstay.com/best-resorts-in-phuket/)
+- 🇮🇳 [Best Places to Visit in India During Summer](https://www.tripnstay.com/best-places-to-visit-in-india/)
+- 🇨🇺 [Why A Solo Trip to Cuba is Totally Mind-Blowing](https://www.tripnstay.com/solo-trip-to-cuba/)
+- 🎆 [11 Best Malaysian Festivals that Define Its Culture](https://www.tripnstay.com/best-malaysian-festivals/)
+- 🍝 [Everything To Know About Italian Food Culture](https://docs.google.com/document/d/1G4lAi5n7Z-RGqZzJPobLhXH2ok9g4fBCwwjP0YmtfZc/edit)
 
 ## 🎓 Education & Background
 
